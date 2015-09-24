@@ -3,16 +3,29 @@ use strict;
 
 ## -- contains sub functions for GO analysis --
 
+
+## INPUT: ogo file, hash_ref to hold results, hash_ref to hold obsolete GOs --
+##        OUTPUT : 'results' is a hash that contains:
+##                           $hash{ $go_acc  } =
+                                # (
+                                #     acc                   => $acc,
+                                #     parents               => \@aParents, ## -- here parents contains [  {acc ... }, {}  ]
+                                #     name                  => $name,
+                                #     name_space            => $name_space,
+                                #     is_root               => $is_root,
+                                #     is_relationship_build => 0 ## will be 1 at the end of the run ...
+                                # );
+## depends on : none --
 sub obo_parser{
     my ($infile, $hash, $obsoleteHash, $pureleaf_hashref, $return_altid_hashref)=@_;
 
     #### parsing obo_file
     ## !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     ## -- note: this part is not the same to its orginal version in go_chenwh_ver#.pl
-    
+
     my $backup=$/;
     $/="\n\[";
- 
+
     my $header=1;
     open IN, $infile or die "Cannot open file: $infile!\n";
     while (<IN>){
@@ -27,7 +40,7 @@ sub obo_parser{
             my $name='';
             my $is_root=0;
             my $is_obsolete=0;
-            
+
             my @aAlt_id=();
             my @aParents=();
             my @aRecommanded_ids_for_obsolete_id=();
@@ -64,7 +77,7 @@ sub obo_parser{
         }
     }
     close IN;
-        
+
     my %hParentNodes = (); ## -- nodes that are parent to some other node --
     #### building relationships for all nodes
     foreach my $key (keys %{$hash}){
@@ -77,13 +90,13 @@ sub obo_parser{
             $$hash{$key}{is_relationship_build}=1;
         }
     }
-    
+
     foreach my $key (keys %{$hash}){
 	if((!$$hash{$key}{is_root}) and !exists $hParentNodes{$key}){
 	    $$pureleaf_hashref{$key} = $$hash{$key}{name_space} if($$hash{$key}{name_space} ne 'cellular_component'); ## -- cellular component are removed --
 	}
     }
-    
+
     print STDERR "\t\tthere are in total ", scalar keys  %{$hash}, " nodes in this go file ... \n";
     print STDERR "\t\tin which ", scalar keys %{$pureleaf_hashref}, " are leaf nodes ... \n\n";
 }
@@ -91,7 +104,7 @@ sub obo_parser{
 sub paths_to_root{
     my ($goid, $hrNodesAndRelationship)=@_;
     my @aPath=();
-    
+
     #print "goid is $goid\n";
     if (exists $$hrNodesAndRelationship{$goid}){
         my @aNewPath=($$hrNodesAndRelationship{$goid});
