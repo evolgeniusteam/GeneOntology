@@ -1,6 +1,9 @@
 #BE CAREFUL THIS SCRIPTS ONLY PLOT INPUT FILE IN UNIX FORMAT UNDER LINUX CORRECTLY
 
-use lib qw(/Users/wchen/Dropbox/perl_scripts/gene_ontology); ## linux version  +  mac version
+use File::Basename;
+use lib dirname (__FILE__);
+
+#use lib qw(/Users/wchen/Dropbox/perl_scripts/gene_ontology); ## linux version  +  mac version
 
 print "\nBE CAREFUL THIS SCRIPTS ONLY PLOT INPUT FILE IN UNIX FORMAT UNDER LINUX CORRECTLY\n";
 print "IF YOU RECEICED \" SOME THING WRONG\" MESSAGE ON THE SCREEN,\n";
