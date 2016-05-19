@@ -34,7 +34,7 @@ if ( !$opts{g} or !$opts{i} or !$opts{o} or !$opts{p} ) {
     USAGE: perl $0
         -i input native go file, GENEID GO:######, multiple, no more than 8
         -g input obo_go file
-		-o print gene ontology result as text file
+        -o print gene ontology result as text file
         -p out file for plot
       [optional]
         --------------------

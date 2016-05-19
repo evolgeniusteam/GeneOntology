@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20001102//EN" "http://www.w3.org/TR/2000/CR-SVG-20001102/DTD/svg-20001102.dtd">
+
+<svg width="2821.86" height="1517.46490766916" viewBox="0 0 2821.86 1517.46490766916">
+<Author>Li Shengting</Author>
+<E-mail>lishengting@genomics.org.cn</E-mail>
+<Version>4.2</Version>
+<Drawer>wchen@FNs-MacBook-Pro.local</Drawer>
+<Date>Thu May 19 13:01:47 2016</Date>
+	<g transform="scale(0.9)" xml:space="preserve">
+		<g transform="translate(145.2,79.2)">
+			<rect width="27.000000" height="286.971668" style="stroke:none;fill:#99330C;stroke-width:3" x="9.000000" y="196.028332" onclick="alert('x:0\ny:2.38000001613076')" />
+			<rect width="27.000000" height="306.895693" style="stroke:none;fill:#99330C;stroke-width:3" x="54.000000" y="176.104307" onclick="alert('x:1\ny:3.47999996837606')" />
+			<rect width="27.000000" height="0.000001" style="stroke:none;fill:#99330C;stroke-width:3" x="99.000000" y="482.999999" onclick="alert('x:2\ny:0.0100000002302585')" />
+			<rect width="27.000000" height="446.059974" style="stroke:none;fill:#99330C;stroke-width:3" x="144.000000" y="36.940026" onclick="alert('x:3\ny:49.4399997631268')" />
+			<rect width="27.000000" height="36.349374" style="stroke:none;fill:#99330C;stroke-width:3" x="189.000000" y="446.650626" onclick="alert('x:4\ny:0.0200000006601981')" />
+			<rect width="27.000000" height="102.045590" style="stroke:none;fill:#99330C;stroke-width:3" x="234.000000" y="380.954410" onclick="alert('x:5\ny:0.0700000016095117')" />
+			<rect width="27.000000" height="414.259427" style="stroke:none;fill:#99330C;stroke-width:3" x="279.000000" y="68.740573" onclick="alert('x:6\ny:26.9600001326425')" />
+			<rect width="27.000000" height="472.637770" style="stroke:none;fill:#99330C;stroke-width:3" x="324.000000" y="10.362230" onclick="alert('x:7\ny:82.0699993530984')" />
+			<rect width="27.000000" height="199.625412" style="stroke:none;fill:#99330C;stroke-width:3" x="369.000000" y="283.374588" onclick="alert('x:8\ny:0.45000000644976')" />
+			<rect width="27.000000" height="405.008594" style="stroke:none;fill:#99330C;stroke-width:3" x="414.000000" y="77.991406" onclick="alert('x:9\ny:22.6000000443679')" />
+			<rect width="27.000000" height="271.442772" style="stroke:none;fill:#99330C;stroke-width:3" x="459.000000" y="211.557228" onclick="alert('x:10\ny:1.77000001482773')" />
+			<rect width="27.000000" height="339.416692" style="stroke:none;fill:#99330C;stroke-width:3" x="504.000000" y="143.583308" onclick="alert('x:11\ny:6.46999999003789')" />
+			<rect width="27.000000" height="408.984319" style="stroke:none;fill:#99330C;stroke-width:3" x="549.000000" y="74.015681" onclick="alert('x:12\ny:24.3799999280119')" />
+			<rect width="27.000000" height="326.422434" style="stroke:none;fill:#99330C;stroke-width:3" x="594.000000" y="156.577566" onclick="alert('x:13\ny:5.05000002187631')" />
+			<rect width="27.000000" height="460.077458" style="stroke:none;fill:#99330C;stroke-width:3" x="639.000000" y="22.922542" onclick="alert('x:14\ny:64.5899993243248')" />
+			<rect width="27.000000" height="347.093680" style="stroke:none;fill:#99330C;stroke-width:3" x="684.000000" y="135.906320" onclick="alert('x:15\ny:7.49000003967583')" />
+			<rect width="27.000000" height="409.646922" style="stroke:none;fill:#99330C;stroke-width:3" x="729.000000" y="73.353078" onclick="alert('x:16\ny:24.6900000038697')" />
+			<rect width="27.000000" height="210.148796" style="stroke:none;fill:#99330C;stroke-width:3" x="774.000000" y="272.851204" onclick="alert('x:17\ny:0.550000013304719')" />
+			<rect width="27.000000" height="316.632343" style="stroke:none;fill:#99330C;stroke-width:3" x="819.000000" y="166.367657" onclick="alert('x:18\ny:4.18999997138168')" />
+			<rect width="27.000000" height="316.507036" style="stroke:none;fill:#99330C;stroke-width:3" x="864.000000" y="166.492964" onclick="alert('x:19\ny:4.17999998291563')" />
+			<rect width="27.000000" height="421.581924" style="stroke:none;fill:#99330C;stroke-width:3" x="909.000000" y="61.418076" onclick="alert('x:20\ny:30.9999997263091')" />
+			<rect width="27.000000" height="253.619744" style="stroke:none;fill:#99330C;stroke-width:3" x="954.000000" y="229.380256" onclick="alert('x:21\ny:1.26000001416521')" />
+			<rect width="27.000000" height="395.549457" style="stroke:none;fill:#99330C;stroke-width:3" x="999.000000" y="87.450543" onclick="alert('x:22\ny:18.8699999928338')" />
+			<rect width="27.000000" height="461.321051" style="stroke:none;fill:#99330C;stroke-width:3" x="1044.000000" y="21.678949" onclick="alert('x:23\ny:66.1399999120228')" />
+			<rect width="27.000000" height="471.448667" style="stroke:none;fill:#99330C;stroke-width:3" x="1089.000000" y="11.551333" onclick="alert('x:24\ny:80.229999593119')" />
+			<rect width="27.000000" height="344.803939" style="stroke:none;fill:#99330C;stroke-width:3" x="1134.000000" y="138.196061" onclick="alert('x:25\ny:7.17000007152261')" />
+			<rect width="27.000000" height="471.311225" style="stroke:none;fill:#99330C;stroke-width:3" x="1179.000000" y="11.688775" onclick="alert('x:26\ny:80.0200005448397')" />
+			<rect width="27.000000" height="252.780669" style="stroke:none;fill:#99330C;stroke-width:3" x="1224.000000" y="230.219331" onclick="alert('x:27\ny:1.24000001381281')" />
+			<rect width="27.000000" height="204.091178" style="stroke:none;fill:#99330C;stroke-width:3" x="1269.000000" y="278.908822" onclick="alert('x:28\ny:0.490000011250496')" />
+			<rect width="27.000000" height="386.601674" style="stroke:none;fill:#99330C;stroke-width:3" x="1314.000000" y="96.398326" onclick="alert('x:29\ny:15.9100000129472')" />
+			<rect width="27.000000" height="379.254278" style="stroke:none;fill:#99330C;stroke-width:3" x="1359.000000" y="103.745722" onclick="alert('x:30\ny:13.829999996519')" />
+			<rect width="27.000000" height="416.505884" style="stroke:none;fill:#99330C;stroke-width:3" x="1404.000000" y="66.494116" onclick="alert('x:31\ny:28.1399997992188')" />
+			<rect width="27.000000" height="437.156574" style="stroke:none;fill:#99330C;stroke-width:3" x="1449.000000" y="45.843426" onclick="alert('x:32\ny:41.7200000235843')" />
+			<rect width="27.000000" height="415.146645" style="stroke:none;fill:#99330C;stroke-width:3" x="1494.000000" y="67.853355" onclick="alert('x:33\ny:27.4199999713678')" />
+			<rect width="27.000000" height="399.970966" style="stroke:none;fill:#99330C;stroke-width:3" x="1539.000000" y="83.029034" onclick="alert('x:34\ny:20.5300000297534')" />
+			<rect width="27.000000" height="201.905818" style="stroke:none;fill:#99330C;stroke-width:3" x="1584.000000" y="281.094182" onclick="alert('x:35\ny:0.470000013056148')" />
+			<rect width="27.000000" height="462.597777" style="stroke:none;fill:#99330C;stroke-width:3" x="1629.000000" y="20.402223" onclick="alert('x:36\ny:67.7700006803574')" />
+			<rect width="27.000000" height="439.540110" style="stroke:none;fill:#99330C;stroke-width:3" x="1674.000000" y="43.459890" onclick="alert('x:37\ny:43.659999861959')" />
+			<rect width="27.000000" height="154.409498" style="stroke:none;fill:#99330C;stroke-width:3" x="1719.000000" y="328.590502" onclick="alert('x:38\ny:0.190000003958057')" />
+			<rect width="27.000000" height="154.409498" style="stroke:none;fill:#99330C;stroke-width:3" x="1764.000000" y="328.590502" onclick="alert('x:39\ny:0.190000003958057')" />
+			<rect width="27.000000" height="301.837215" style="stroke:none;fill:#99330C;stroke-width:3" x="1809.000000" y="181.162785" onclick="alert('x:40\ny:3.15999998094805')" />
+			<rect width="27.000000" height="192.121053" style="stroke:none;fill:#99330C;stroke-width:3" x="1854.000000" y="290.878947" onclick="alert('x:41\ny:0.39000001165031')" />
+			<rect width="27.000000" height="327.450723" style="stroke:none;fill:#99330C;stroke-width:3" x="1899.000000" y="155.549277" onclick="alert('x:42\ny:5.15000001136986')" />
+			<rect width="27.000000" height="315.493651" style="stroke:none;fill:#99330C;stroke-width:3" x="1944.000000" y="167.506349" onclick="alert('x:43\ny:4.10000003096766')" />
+			<rect width="27.000000" height="172.837175" style="stroke:none;fill:#99330C;stroke-width:3" x="1989.000000" y="310.162825" onclick="alert('x:44\ny:0.270000003631346')" />
+			<rect width="27.000000" height="170.858033" style="stroke:none;fill:#99330C;stroke-width:3" x="2034.000000" y="312.141967" onclick="alert('x:45\ny:0.260000007201536')" />
+			<rect width="27.000000" height="196.007353" style="stroke:none;fill:#99330C;stroke-width:3" x="2079.000000" y="286.992647" onclick="alert('x:46\ny:0.420000009286054')" />
+			<rect width="27.000000" height="468.801090" style="stroke:none;fill:#99330C;stroke-width:3" x="2124.000000" y="14.198910" onclick="alert('x:47\ny:76.279999231751')" />
+			<rect width="27.000000" height="439.564128" style="stroke:none;fill:#99330C;stroke-width:3" x="2169.000000" y="43.435872" onclick="alert('x:48\ny:43.6800000305069')" />
+			<rect width="27.000000" height="57.612392" style="stroke:none;fill:#99330C;stroke-width:3" x="2214.000000" y="425.387608" onclick="alert('x:49\ny:0.0300000003647528')" />
+			<rect width="27.000000" height="84.400629" style="stroke:none;fill:#99330C;stroke-width:3" x="2259.000000" y="398.599371" onclick="alert('x:50\ny:0.0500000006520899')" />
+			<rect width="27.000000" height="224.272901" style="stroke:none;fill:#99330C;stroke-width:3" x="2304.000000" y="258.727099" onclick="alert('x:51\ny:0.720000022495075')" />
+			<rect width="27.000000" height="338.517447" style="stroke:none;fill:#99330C;stroke-width:3" x="2349.000000" y="144.482553" onclick="alert('x:52\ny:6.36000006372655')" />
+			<rect width="27.000000" height="304.899161" style="stroke:none;fill:#99330C;stroke-width:3" x="2394.000000" y="178.100839" onclick="alert('x:53\ny:3.35000002285677')" />
+			<rect width="27.000000" height="315.621400" style="stroke:none;fill:#99330C;stroke-width:3" x="2439.000000" y="167.378600" onclick="alert('x:54\ny:4.10999998224558')" />
+			<rect width="27.000000" height="57.612392" style="stroke:none;fill:#99330C;stroke-width:3" x="2484.000000" y="425.387608" onclick="alert('x:55\ny:0.0300000003647528')" />
+			<rect width="27.000000" height="317.006478" style="stroke:none;fill:#99330C;stroke-width:3" x="2529.000000" y="165.993522" onclick="alert('x:56\ny:4.2199999906555')" />
+			<rect width="27.000000" height="322.432186" style="stroke:none;fill:#99330C;stroke-width:3" x="2574.000000" y="160.567814" onclick="alert('x:57\ny:4.67999996687294')" />
+			<rect width="27.000000" height="289.760602" style="stroke:none;fill:#99330C;stroke-width:3" x="2619.000000" y="193.239398" onclick="alert('x:58\ny:2.50999999144036')" />
+			<rect width="27.000000" height="154.409498" style="stroke:none;fill:#99330C;stroke-width:3" x="2664.000000" y="328.590502" onclick="alert('x:59\ny:0.190000003958057')" />
+			<rect width="27.000000" height="338.682097" style="stroke:none;fill:#99330C;stroke-width:3" x="2709.000000" y="144.317903" onclick="alert('x:60\ny:6.38000001878676')" />
+			<text x="-93.516" y="500" style="font-size:46;font-family:Arial;fill:#000000">0.01</text>
+			<line x1="0" y1="483.000000" x2="8" y2="483.000000" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-67.94" y="379.25" style="font-size:46;font-family:Arial;fill:#000000">0.1</text>
+			<line x1="0" y1="362.250000" x2="8" y2="362.250000" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-29.576" y="258.5" style="font-size:46;font-family:Arial;fill:#000000">1</text>
+			<line x1="0" y1="241.500000" x2="8" y2="241.500000" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-55.152" y="137.75" style="font-size:46;font-family:Arial;fill:#000000">10</text>
+			<line x1="0" y1="120.750000" x2="8" y2="120.750000" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-80.728" y="17" style="font-size:46;font-family:Arial;fill:#000000">100</text>
+			<line x1="0" y1="0.000000" x2="8" y2="0.000000" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="2749" y="500" style="font-size:46;font-family:Arial;fill:#99330C">1</text>
+			<line x1="2745" y1="483.000000" x2="2737" y2="483.000000" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="2749" y="258.5" style="font-size:46;font-family:Arial;fill:#99330C">100</text>
+			<line x1="2745" y1="241.500000" x2="2737" y2="241.500000" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="2749" y="17" style="font-size:46;font-family:Arial;fill:#99330C">10000</text>
+			<line x1="2745" y1="0.000000" x2="2737" y2="0.000000" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-176.41" y="23" transform="translate(22.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">behavior</text>
+			<line x1="0" y1="483" x2="0" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="0" y1="0" x2="0" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-391.184" y="23" transform="translate(67.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">biological adhesion</text>
+			<line x1="45" y1="483" x2="45" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="45" y1="0" x2="45" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-329.82" y="23" transform="translate(112.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">biological phase</text>
+			<line x1="90" y1="483" x2="90" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="90" y1="0" x2="90" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-406.502" y="23" transform="translate(157.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">biological regulation</text>
+			<line x1="135" y1="483" x2="135" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="135" y1="0" x2="135" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-324.714" y="23" transform="translate(202.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">cell aggregation</text>
+			<line x1="180" y1="483" x2="180" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="180" y1="0" x2="180" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-196.788" y="23" transform="translate(247.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">cell killing</text>
+			<line x1="225" y1="483" x2="225" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="225" y1="0" x2="225" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-935.732" y="23" transform="translate(292.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">cellular component organization or biogenesis</text>
+			<line x1="270" y1="483" x2="270" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="270" y1="0" x2="270" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-319.516" y="23" transform="translate(337.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">cellular process</text>
+			<line x1="315" y1="483" x2="315" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="315" y1="0" x2="315" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-268.456" y="23" transform="translate(382.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">detoxification</text>
+			<line x1="360" y1="483" x2="360" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="360" y1="0" x2="360" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-472.972" y="23" transform="translate(427.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">developmental process</text>
+			<line x1="405" y1="483" x2="405" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="405" y1="0" x2="405" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-138.046" y="23" transform="translate(472.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">growth</text>
+			<line x1="450" y1="483" x2="450" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="450" y1="0" x2="450" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-495.88" y="23" transform="translate(517.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">immune system process</text>
+			<line x1="495" y1="483" x2="495" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="495" y1="0" x2="495" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-227.516" y="23" transform="translate(562.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">localization</text>
+			<line x1="540" y1="483" x2="540" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="540" y1="0" x2="540" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-222.41" y="23" transform="translate(607.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">locomotion</text>
+			<line x1="585" y1="483" x2="585" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="585" y1="0" x2="585" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-370.668" y="23" transform="translate(652.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">metabolic process</text>
+			<line x1="630" y1="483" x2="630" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="630" y1="0" x2="630" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-475.41" y="23" transform="translate(697.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">multi-organism process</text>
+			<line x1="675" y1="483" x2="675" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="675" y1="0" x2="675" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-654.35" y="23" transform="translate(742.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">multicellular organismal process</text>
+			<line x1="720" y1="483" x2="720" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="720" y1="0" x2="720" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-1091.58" y="23" transform="translate(787.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">presynaptic process involved in synaptic transmission</text>
+			<line x1="765" y1="483" x2="765" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="765" y1="0" x2="765" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-255.668" y="23" transform="translate(832.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">reproduction</text>
+			<line x1="810" y1="483" x2="810" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="810" y1="0" x2="810" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-426.926" y="23" transform="translate(877.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">reproductive process</text>
+			<line x1="855" y1="483" x2="855" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="855" y1="0" x2="855" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-421.82" y="23" transform="translate(922.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">response to stimulus</text>
+			<line x1="900" y1="483" x2="900" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="900" y1="0" x2="900" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-347.622" y="23" transform="translate(967.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">rhythmic process</text>
+			<line x1="945" y1="483" x2="945" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="945" y1="0" x2="945" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-181.516" y="23" transform="translate(1012.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">signaling</text>
+			<line x1="990" y1="483" x2="990" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="990" y1="0" x2="990" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-498.456" y="23" transform="translate(1057.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">single-organism process</text>
+			<line x1="1035" y1="483" x2="1035" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1035" y1="0" x2="1035" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-69" y="23" transform="translate(1102.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">cell</text>
+			<line x1="1080" y1="483" x2="1080" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1080" y1="0" x2="1080" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-240.304" y="23" transform="translate(1147.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">cell junction</text>
+			<line x1="1125" y1="483" x2="1125" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1125" y1="0" x2="1125" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-161.046" y="23" transform="translate(1192.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">cell part</text>
+			<line x1="1170" y1="483" x2="1170" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1170" y1="0" x2="1170" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-385.94" y="23" transform="translate(1237.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">extracellular matrix</text>
+			<line x1="1215" y1="483" x2="1215" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1215" y1="0" x2="1215" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-626.29" y="23" transform="translate(1282.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">extracellular matrix component</text>
+			<line x1="1260" y1="483" x2="1260" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1260" y1="0" x2="1260" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-388.562" y="23" transform="translate(1327.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">extracellular region</text>
+			<line x1="1305" y1="483" x2="1305" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1305" y1="0" x2="1305" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-480.608" y="23" transform="translate(1372.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">extracellular region part</text>
+			<line x1="1350" y1="483" x2="1350" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1350" y1="0" x2="1350" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-511.198" y="23" transform="translate(1417.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">macromolecular complex</text>
+			<line x1="1395" y1="483" x2="1395" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1395" y1="0" x2="1395" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-219.834" y="23" transform="translate(1462.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">membrane</text>
+			<line x1="1440" y1="483" x2="1440" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1440" y1="0" x2="1440" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-311.88" y="23" transform="translate(1507.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">membrane part</text>
+			<line x1="1485" y1="483" x2="1485" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1485" y1="0" x2="1485" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-557.29" y="23" transform="translate(1552.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">membrane-enclosed lumen</text>
+			<line x1="1530" y1="483" x2="1530" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1530" y1="0" x2="1530" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-171.304" y="23" transform="translate(1597.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">nucleoid</text>
+			<line x1="1575" y1="483" x2="1575" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1575" y1="0" x2="1575" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-189.198" y="23" transform="translate(1642.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">organelle</text>
+			<line x1="1620" y1="483" x2="1620" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1620" y1="0" x2="1620" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-281.244" y="23" transform="translate(1687.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">organelle part</text>
+			<line x1="1665" y1="483" x2="1665" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1665" y1="0" x2="1665" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-306.774" y="23" transform="translate(1732.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">other organism</text>
+			<line x1="1710" y1="483" x2="1710" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1710" y1="0" x2="1710" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-398.82" y="23" transform="translate(1777.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">other organism part</text>
+			<line x1="1755" y1="483" x2="1755" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1755" y1="0" x2="1755" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-416.668" y="23" transform="translate(1822.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">supramolecular fiber</text>
+			<line x1="1800" y1="483" x2="1800" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1800" y1="0" x2="1800" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-181.47" y="23" transform="translate(1867.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">symplast</text>
+			<line x1="1845" y1="483" x2="1845" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1845" y1="0" x2="1845" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-171.304" y="23" transform="translate(1912.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">synapse</text>
+			<line x1="1890" y1="483" x2="1890" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1890" y1="0" x2="1890" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-263.35" y="23" transform="translate(1957.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">synapse part</text>
+			<line x1="1935" y1="483" x2="1935" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1935" y1="0" x2="1935" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-109.894" y="23" transform="translate(2002.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">virion</text>
+			<line x1="1980" y1="483" x2="1980" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1980" y1="0" x2="1980" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-201.94" y="23" transform="translate(2047.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">virion part</text>
+			<line x1="2025" y1="483" x2="2025" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="2025" y1="0" x2="2025" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-375.82" y="23" transform="translate(2092.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">antioxidant activity</text>
+			<line x1="2070" y1="483" x2="2070" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="2070" y1="0" x2="2070" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-148.304" y="23" transform="translate(2137.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">binding</text>
+			<line x1="2115" y1="483" x2="2115" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="2115" y1="0" x2="2115" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-319.516" y="23" transform="translate(2182.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">catalytic activity</text>
+			<line x1="2160" y1="483" x2="2160" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="2160" y1="0" x2="2160" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-483.184" y="23" transform="translate(2227.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">chemoattractant activity</text>
+			<line x1="2205" y1="483" x2="2205" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="2205" y1="0" x2="2205" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-467.82" y="23" transform="translate(2272.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">chemorepellent activity</text>
+			<line x1="2250" y1="483" x2="2250" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="2250" y1="0" x2="2250" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-460.092" y="23" transform="translate(2317.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">electron carrier activity</text>
+			<line x1="2295" y1="483" x2="2295" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="2295" y1="0" x2="2295" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-567.548" y="23" transform="translate(2362.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">molecular function regulator</text>
+			<line x1="2340" y1="483" x2="2340" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="2340" y1="0" x2="2340" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-582.82" y="23" transform="translate(2407.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">molecular transducer activity</text>
+			<line x1="2385" y1="483" x2="2385" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="2385" y1="0" x2="2385" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-945.898" y="23" transform="translate(2452.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">nucleic acid binding transcription factor activity</text>
+			<line x1="2430" y1="483" x2="2430" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="2430" y1="0" x2="2430" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-217.35" y="23" transform="translate(2497.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">protein tag</text>
+			<line x1="2475" y1="483" x2="2475" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="2475" y1="0" x2="2475" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-503.608" y="23" transform="translate(2542.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">signal transducer activity</text>
+			<line x1="2520" y1="483" x2="2520" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="2520" y1="0" x2="2520" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-539.35" y="23" transform="translate(2587.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">structural molecule activity</text>
+			<line x1="2565" y1="483" x2="2565" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="2565" y1="0" x2="2565" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-859.004" y="23" transform="translate(2632.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">transcription factor activity, protein binding</text>
+			<line x1="2610" y1="483" x2="2610" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="2610" y1="0" x2="2610" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-559.866" y="23" transform="translate(2677.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">translation regulator activity</text>
+			<line x1="2655" y1="483" x2="2655" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="2655" y1="0" x2="2655" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="-375.774" y="23" transform="translate(2722.5,487) rotate(-75)" style="font-size:46;font-family:Arial;fill:#000000">transporter activity</text>
+			<line x1="2700" y1="483" x2="2700" y2="475" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="2700" y1="0" x2="2700" y2="8" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="-29.777828" y1="682.103493" x2="-266.641273" y2="1566.089826" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="921.870527" y1="993.176040" x2="768.358727" y2="1566.089826" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="-266.641273" y1="1566.089826" x2="768.358727" y2="1566.089826" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="65.524727" y="1614.089826" style="font-size:46;font-family:Arial;fill:#000000">Biological process</text>
+			<line x1="1078.021928" y1="578.353400" x2="813.358727" y2="1566.089826" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1988.614521" y1="706.763579" x2="1758.358727" y2="1566.089826" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="813.358727" y1="1566.089826" x2="1758.358727" y2="1566.089826" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="1087.736727" y="1614.089826" style="font-size:46;font-family:Arial;fill:#000000">Cellular component</text>
+			<line x1="1988.611062" y1="874.718761" x2="1803.358727" y2="1566.089826" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="2618.622968" y1="874.674328" x2="2433.358727" y2="1566.089826" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<line x1="1803.358727" y1="1566.089826" x2="2433.358727" y2="1566.089826" style="stroke-width:3;fill:none;stroke:#000000;stroke-linecap:round" />
+			<text x="1931.736727" y="1614.089826" style="font-size:46;font-family:Arial;fill:#000000">Molecular function</text>
+			<rect width="2745" height="483" style="stroke:black;fill:none;stroke-width:3" x="0" y="0" />
+		</g>
+		<text x="-173.88" y="0" transform="translate(52.472,320.7) rotate(-90)" style="font-size:46;font-family:Arial;fill:#000000">Percent of genes</text>
+		<text x="1517.7" y="1671.0721196324" style="font-size:46;font-family:Arial;fill:#000000"></text>
+		<text x="1517.7" y="56" style="font-size:46;font-family:Arial;fill:#000000"></text>
+		<text x="-176.41" y="46" transform="translate(3020.08,320.7) rotate(-90)" style="font-size:46;font-family:Arial;fill:#000000">Number of genes</text>
+	</g>
+</svg>
