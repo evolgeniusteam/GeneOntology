@@ -1,14 +1,10 @@
 #!/usr/bin/perl -w
 use strict;
 use Getopt::Long;
+use File::Basename;
 
-## -- importing the script 'go_functions.pl' depends on host OS, added on Sep 24, 2015 --
-my $os = $^O;
-if($os eq 'darwin'){ ## if mac --
-    require '/Users/wchen/Dropbox/perl_scripts/gene_ontology/go_functions.pl';
-}elsif($os eq 'linux'){ ## -- if linux --
-    require '/home/wchen/Dropbox/perl_scripts/gene_ontology/go_functions.pl';
-}
+my $bin_dir = dirname(__FILE__);
+require "$bin_dir/go_lib.pl";
 
 my %opts = ();
 GetOptions(
@@ -284,50 +280,6 @@ for ( my $i = 0 ; $i < @nm_go_file ; $i++ ) {
 
 my $used_time = time - $start_time;
 print "time used $used_time\n";
-
-sub paths_to_root {
-    my ($goid) = @_;
-    my @aPath = ();
-
-    #print "goid is $goid\n";
-    if ( exists $hNodesAndRelationship{$goid} ) {
-        my @aNewPath = ( $hNodesAndRelationship{$goid} );
-        push @aPath, \@aNewPath;
-        my $has_parents = 1;
-        while ($has_parents) {
-            $has_parents = 0;
-            #### iterate all path
-            foreach my $path (@aPath) {
-                #### check the top node for every path
-                if ( scalar @{ $$path[0]{parents} } ) {
-                    $has_parents++;
-                    for ( my $i = 1 ; $i < @{ $$path[0]{parents} } ; $i++ ) {
-                        #### duplicate current path
-                        my $newPath = &duplicate_path($path);
-                        #### add new top node to deplicated path
-                        unshift @{$newPath}, $$path[0]{parents}[$i];
-                        push @aPath, $newPath;
-                    }
-                    #### update current path
-                    unshift @{$path}, $$path[0]{parents}[0];
-                }
-                else {    #### no parents means current node top node
-                    #### do nothing
-                }
-            }
-        }
-    }
-    return \@aPath;
-}
-
-sub duplicate_path {
-    my ($path) = @_;
-    my @aNewPath = ();
-    foreach my $arrayElement ( @{$path} ) {
-        push @aNewPath, $arrayElement;
-    }
-    return \@aNewPath;
-}
 
 sub gohierarchy {
     my ( $this_level, $refArrary, $refHash, $refGeneHash ) = @_;
